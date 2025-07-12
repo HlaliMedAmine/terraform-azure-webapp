@@ -69,7 +69,7 @@ _Add screenshots of Azure portal or terminal outputs here._
 ## 🤝 About Me
 
 My name is **Mohamed Amine Hlali**, passionate about **Cloud Computing**, **DevOps**, and real-world infrastructure automation.  
-This project is part of my practical experience to become a **Cloud/DevOps Engineer**.
+This project demonstrates my hands-on experience in deploying cloud infrastructure, strengthening my skills as a **Cloud/DevOps Engineer**.
 
 🔗 [My GitHub](https://github.com/HlaliMedAmine)
 
