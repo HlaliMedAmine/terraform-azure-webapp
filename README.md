@@ -62,9 +62,10 @@ ips        = "20.82.46.132,20.82.40.237, ..."
 
 ## 📸 Screenshots
 
-_Add screenshots of Azure portal or terminal outputs here._
+![Screenshot 1](screenshots/screen1.png)
 
----
+![Screenshot 2](screenshots/screen2.png)
+
 
 ## 🤝 About Me
 
